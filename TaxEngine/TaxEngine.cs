@@ -9,7 +9,7 @@ namespace ExampleClassLibrary.Chapter2
     {
         public string GetOK()
         {
-            return "OK";
+            return "OK2";
         }
         public void Demo()
         {
